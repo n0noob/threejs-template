@@ -1,0 +1,16 @@
+{
+  "name": "threejs-template",
+  "version": "0.0.1",
+  "main": "index.js",
+  "author": "n0noob",
+  "license": "MIT",
+  "scripts": {
+    "watch": "parcel index.html"
+  },
+  "dependencies": {
+    "three": "^0.119.1"
+  },
+  "devDependencies": {
+    "parcel": "^2.0.0-beta.1"
+  }
+}
